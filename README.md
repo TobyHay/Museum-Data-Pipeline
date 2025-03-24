@@ -1,4 +1,4 @@
-# **Data Pipeline - Live Kiosk Data**  
+# **Museum Data Pipeline - Live Kiosk Data**  
 
 
 ## Overview
